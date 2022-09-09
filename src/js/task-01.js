@@ -8,3 +8,6 @@ console.log('Number of categories:', listEl.length);
     console.log('Category:', titleOfCategory);
     console.log('Elements:', categoryElement.length);
 });
+
+
+// done

@@ -35,3 +35,5 @@ for (const img of image) {
   img.style.boxShadow = '3px 5px 3px #757878';
   img.style.borderRadius = '10px';
 };
+
+// done
